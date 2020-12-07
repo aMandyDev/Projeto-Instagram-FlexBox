@@ -10,6 +10,4 @@
 - Animação nos botões: 
 	Continue as,
 	Download App Store e 
-	Google Play;
-
-- Inclusão do Footer_Rodapé_
+	Google Play.
