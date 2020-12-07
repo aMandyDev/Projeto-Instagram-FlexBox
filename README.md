@@ -12,4 +12,4 @@
 	Download App Store e 
 	Google Play;
 
--- implementações em andamento...
+- Inclusão do Footer_Rodapé_
